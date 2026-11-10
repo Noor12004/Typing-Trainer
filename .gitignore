@@ -1,0 +1,3 @@
+# Downloaded libraries (reinstalled with "npm install", so not stored)
+node_modules/
+dist/
